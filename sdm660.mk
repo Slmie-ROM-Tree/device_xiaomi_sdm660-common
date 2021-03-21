@@ -141,10 +141,6 @@ PRODUCT_BOOT_JARS += \
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.btconfigstore@1.0.vendor
 
-# Camera
-PRODUCT_PACKAGES += \
-    Snap
-
 PRODUCT_PACKAGES += \
     android.hardware.camera.device@3.4:64 \
     android.hardware.camera.device@3.5:64 \
